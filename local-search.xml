@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title></title>
+    <link href="/2023/12/07/github%E5%BC%80%E6%BA%90ocr%E7%A5%9E%E5%99%A8/"/>
+    <url>/2023/12/07/github%E5%BC%80%E6%BA%90ocr%E7%A5%9E%E5%99%A8/</url>
+    
+    <content type="html"><![CDATA[<p>这篇文章给大家推荐一款免费，开源，可批量的离线OCR软件。</p><p><img src="https://files.mdnice.com/user/46581/ee5ba438-0579-4cf4-81c4-13ba5532b826.png"></p><h2 id="1-Umi-OCR-简介"><a href="#1-Umi-OCR-简介" class="headerlink" title="1 Umi-OCR 简介"></a>1 Umi-OCR 简介</h2><ul><li>免费：本项目所有代码开源，完全免费。</li><li>方便：解压即用，离线运行，无需网络。</li><li>批量：可批量导入处理图片，结果保存到本地 txt &#x2F; md &#x2F; jsonl 多种格式文件。也可以即时截屏识别。</li><li>高效：采用 PaddleOCR-json C++ 识别引擎。只要电脑性能足够，通常比在线OCR服务更快。</li><li>精准：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对手写、方向不正、杂乱背景等情景也有不错的识别率。可设置忽略区域排除水印、设置文块后处理合并排版段落，得到规整的文本。</li></ul><p><img src="https://files.mdnice.com/user/46581/ee46a2c4-624f-44f7-be2e-206c3153e7e6.png"></p><p><img src="https://files.mdnice.com/user/46581/b6e8a0b5-6714-4369-bc43-494c99977220.png"></p><h2 id="2-支持功能"><a href="#2-支持功能" class="headerlink" title="2 支持功能"></a>2 支持功能</h2><ul><li>简单上手 截图、批量识别~</li><li>排版优化 如何合并一个自然段内的文字？</li><li>忽略区域 如何排除截图水印处的文字？</li><li>多国语言 添加更多PP-OCR支持的语言模型库！</li><li>命令行调用 用命令行或第三方工具来调用Umi-OCR！</li><li>联动翻译软件 截图OCR后发送指定按键，触发翻译软件进行翻译</li><li>更多小技巧</li><li>问题排除 无法启动引擎 &#x2F; 多屏幕截图异常 ？</li></ul><h2 id="3、安装"><a href="#3、安装" class="headerlink" title="3、安装"></a>3、安装</h2><p>访问如下链接去安装</p><blockquote><p><a href="https://github.com/hiroi-sora/Umi-OCR/releases/tag/v1.3.5">https://github.com/hiroi-sora/Umi-OCR/releases/tag/v1.3.5</a></p></blockquote><h2 id="4、实践使用"><a href="#4、实践使用" class="headerlink" title="4、实践使用"></a>4、实践使用</h2><ul><li>截图识别<br>点击截图按钮或自定义快捷键，唤起截图识别。</li></ul><p><img src="https://files.mdnice.com/user/46581/addbcff8-d975-43d6-8ff8-6819cf1be6cf.png"><br>v1.3.4 还可以设置截图后生成一个预览窗口。预览窗口可以被钉在屏幕顶层，或调为半透明，方便对比查看。</p><ul><li>粘贴图片到软件<br>在任何地方（如文件管理器，网页，微信）复制图片，软件上点击粘贴按钮或快捷键，自动识别</li></ul><p><img src="https://files.mdnice.com/user/46581/1c3ca018-c338-420f-8b82-c7d87dd2f682.png"></p><ul><li>批量识别本地图片文件<br>将图片或文件夹拖进软件，批量转换文字。也可以点击按钮打开浏览窗口导入。</li></ul><p>识别结果将保存到本地。可选生成纯文本txt文件、带链接Markdown文件、原始信息jsonl文件等不同格式。可配置任务完成后执行关机&#x2F;待机。</p><p><img src="https://files.mdnice.com/user/46581/3a589783-846a-4bff-85dc-c494f1fbc9fe.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>如何使用 node_exporter 和 Prometheus 监控 Linux 主机上账户密码的过期时间</title>
     <link href="/2023/12/06/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-node-exporter-%E5%92%8C-Prometheus-%E7%9B%91%E6%8E%A7-Linux-%E4%B8%BB%E6%9C%BA%E4%B8%8A%E8%B4%A6%E6%88%B7%E5%AF%86%E7%A0%81%E7%9A%84%E8%BF%87%E6%9C%9F%E6%97%B6%E9%97%B4/"/>
     <url>/2023/12/06/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-node-exporter-%E5%92%8C-Prometheus-%E7%9B%91%E6%8E%A7-Linux-%E4%B8%BB%E6%9C%BA%E4%B8%8A%E8%B4%A6%E6%88%B7%E5%AF%86%E7%A0%81%E7%9A%84%E8%BF%87%E6%9C%9F%E6%97%B6%E9%97%B4/</url>
