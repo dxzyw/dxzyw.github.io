@@ -4,6 +4,84 @@
   
   
   <entry>
+    <title>13.2k star,推荐一款开源免费的windows软件，强大！高级</title>
+    <link href="/2023/12/08/13-2k-star-%E6%8E%A8%E8%8D%90%E4%B8%80%E6%AC%BE%E5%BC%80%E6%BA%90%E5%85%8D%E8%B4%B9%E7%9A%84windows%E8%BD%AF%E4%BB%B6%EF%BC%8C%E5%BC%BA%E5%A4%A7%EF%BC%81%E9%AB%98%E7%BA%A7/"/>
+    <url>/2023/12/08/13-2k-star-%E6%8E%A8%E8%8D%90%E4%B8%80%E6%AC%BE%E5%BC%80%E6%BA%90%E5%85%8D%E8%B4%B9%E7%9A%84windows%E8%BD%AF%E4%BB%B6%EF%BC%8C%E5%BC%BA%E5%A4%A7%EF%BC%81%E9%AB%98%E7%BA%A7/</url>
+    
+    <content type="html"><![CDATA[<p>来！先看下效果，具体介绍见下文，软件获取在文末<br><img src="https://s2.51cto.com/images/blog/202312/08134619_6572adaba5f2395673.gif"></p><p>Czkawka是一款用Rust语言编写的多功能应用程序，可以帮助用户查找和删除计算机中的重复文件、空文件夹、相似图片等不必要的文件。</p><p>本文将介绍Czkawka的工具简介、如何安装使用、功能特点、类似软件等，并进行总结。</p><h2 id="工具简介"><a href="#工具简介" class="headerlink" title="工具简介"></a>工具简介</h2><p>Czkawka（波兰语发音为tch•kav•ka，意思是“打嗝”）是一个简单、快速且免费的应用程序，可以从您的计算机中删除不需要的文件¹。它使用了一些高级的算法和多线程技术，使得扫描速度非常快。</p><p>它还支持缓存功能，可以使第二次及以后的扫描比第一次更快。它有两种前端，一种是命令行界面（CLI），可以方便地进行自动化操作；</p><p>另一种是图形用户界面（GUI），使用了GTK 4框架，外观类似于FSlint。它不会收集或发送任何用户信息或统计数据，也不会显示任何广告。它支持多种语言，如波兰语、英语或意大利语等。</p><h2 id="如何安装使用"><a href="#如何安装使用" class="headerlink" title="如何安装使用"></a>如何安装使用</h2><p>Czkawka支持多种操作系统，如Linux、Windows、macOS、FreeBSD等。您可以从GitHub项目的<a href="%5E2%5E">发布页面</a>下载最新版本的二进制文件，或者从源代码编译安装。如果您使用的是Linux系统，您还可以使用snap、flatpak或包管理器等方式安装。</p><p>安装完成后，您可以根据您的喜好选择使用CLI或GUI。CLI的用法可以通过运行<code>czkawka_cli --help</code>查看，GUI的用法则比较直观，您可以通过点击不同的标签页选择不同的工具，然后设置扫描的文件夹、排除的文件夹、过滤的条件等，最后点击“查找”按钮开始扫描。扫描完成后，您可以在结果列表中查看和删除不需要的文件，也可以将结果保存为文本或json格式的文件。</p><h2 id="功能特点"><a href="#功能特点" class="headerlink" title="功能特点"></a>功能特点</h2><p>Czkawka提供了多种工具，可以帮助您查找和删除计算机中的不必要的文件，包括以下几种：</p><ul><li>重复文件 - 根据文件名、大小或哈希值查找重复的文件</li><li>空文件夹 - 使用高级算法查找空的文件夹</li><li>大文件 - 查找给定位置中最大的一定数量的文件</li><li>空文件 - 查找空的文件</li><li>临时文件 - 查找临时文件</li><li>相似图片 - 查找不完全相同的图片（不同分辨率、水印等）</li><li>相似视频 - 查找视觉上相似的视频</li><li>相同音乐 - 根据标签或内容查找相似的音乐</li><li>无效符号链接 - 显示指向不存在的文件或文件夹的符号链接</li><li>损坏文件 - 查找无效或损坏的文件</li><li>错误扩展名 - 列出内容与扩展名不匹配的文件</li></ul><p>Czkawka的功能特点有以下几点：</p><ul><li>使用了内存安全的Rust语言编写，避免了内存泄漏或溢出等问题</li><li>使用了多线程技术，充分利用了多核处理器的性能，提高了扫描速度</li><li>使用了缓存技术，可以加快第二次及以后的扫描速度，也可以节省磁盘空间</li><li>支持多种文件格式，如音频、图片、视频、音乐、pdf等</li><li>支持多种操作系统，如Linux、Windows、macOS、FreeBSD等</li><li>支持多种语言，如波兰语、英语或意大利语等</li><li>支持两种前端，一种是命令行界面（CLI），可以方便地进行自动化操作；另一种是图形用户界面（GUI），使用了GTK 4框架，外观类似于FSlint</li><li>不会收集或发送任何用户信息或统计数据，也不会显示任何广告</li></ul><h2 id="类似软件"><a href="#类似软件" class="headerlink" title="类似软件"></a>类似软件</h2><p>Czkawka并不是唯一一款可以查找和删除不必要文件的软件，市面上还有一些类似的软件，如：</p><ul><li>FSlint - 一个用Python编写的Linux下的查找和删除不必要文件的软件，提供了类似的功能，但是使用了GTK 2框架，外观比较陈旧，而且已经很久没有更新了¹</li><li>dupeGuru - 一个用Python编写的跨平台的查找和删除重复文件的软件，支持音频、图片、标准模式等，但是不支持查找空文件夹、相似视频等功能⁸</li><li>CCleaner - 一个用C++编写的Windows下的清理和优化系统的软件，提供了查找和删除临时文件、注册表错误、浏览器缓存等功能，但是不支持查找重复文件、相似图片等功能，而且有一些广告和隐私问题</li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>Czkawka是一款用Rust语言编写的多功能应用程序，可以帮助用户查找和删除计算机中的重复文件、空文件夹、相似图片等不必要的文件。它有两种前端，一种是命令行界面（CLI），可以方便地进行自动化操作；另一种是图形用户界面（GUI），使用了GTK 4框架，外观类似于FSlint。</p><p>它使用了一些高级的算法和多线程技术，使得扫描速度非常快。它还支持缓存功能，可以使第二次及以后的扫描比第一次更快。</p><p>它支持多种文件格式，如音频、图片、视频、音乐、pdf等。它支持多种操作系统，如Linux、Windows、macOS、FreeBSD等。它支持多种语言，如波兰语、英语或意大利语等。它不会收集或发送任何用户信息或统计数据，也不会显示任何广告。它是一款简单、快速且免费的应用程序，值得用户尝试和使用。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2023/12/07/%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90html%E9%A1%B5%E9%9D%A2%E5%A4%8D%E5%88%B6%E4%BF%9D%E5%AD%98/"/>
+    <url>/2023/12/07/%E5%BC%80%E6%BA%90%E6%8E%A8%E8%8D%90html%E9%A1%B5%E9%9D%A2%E5%A4%8D%E5%88%B6%E4%BF%9D%E5%AD%98/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>大侠之运维</strong>，相识便是缘<br>收集不易,点赞、留言、分享就是大侠🦸‍♀️写下去的动力!</p></blockquote><p>11.6k star,真的吹爆这款开源插件，太强了！！</p><p>这款插件可以一键将你看到的网页内容统统下载下来，整合到本地作为一个html文件，还可以针对部分内容进行下载，也可以对下载内容添加笔记、文本高亮等。</p><p>支持目前主流的大部分浏览器。</p><h2 id="1-SingleFile-简介"><a href="#1-SingleFile-简介" class="headerlink" title="1 SingleFile  简介"></a>1 SingleFile  简介</h2><p>如果你直接另存一个html页面的话，很多时候页面内容会变得很乱，部分资源也会没有保存下来，而且部分页面也是无法另存的。</p><p>这款插件对于上述场景就变的很有用了。</p><p>下面的示例可以看下，简单的全部另存：</p><p>选取部分内容另存：</p><p>另存前添加笔记，高亮部分内容：</p><h2 id="2-安装"><a href="#2-安装" class="headerlink" title="2 安装"></a>2 安装</h2><p>github可以访问的直接到如下链接去下载就可以，目前支持chrome、firefox、edge、safari等浏览器</p><p><strong><a href="https://github.com/gildas-lormeau/SingleFile">https://github.com/gildas-lormeau/SingleFile</a></strong></p><p>github如果无法访问的话，可以<strong>后台直接私信</strong></p><p>也可在对应的插件市场去找：</p><p><img src="https://files.mdnice.com/user/46581/4a30a4e9-1782-4d10-bf1a-51da31430054.png"></p><h2 id="3-使用"><a href="#3-使用" class="headerlink" title="3 使用"></a>3 使用</h2><ul><li>点击扩展工具栏中的SingleFile按钮即可保存页面。</li><li>当处理页面时，您可以再次点击按钮来取消操作。</li></ul><h2 id="4-注意"><a href="#4-注意" class="headerlink" title="4 注意"></a>4 注意</h2><ul><li>通过在扩展工具栏或网页上单击SingleFile按钮，可以打开上下文菜单。它允许您保存：<br>当前标签页，<br>选定的内容，<br>选定的框架。</li><li>您还可以在一个单击中处理多个标签并保存：<br>选定的标签页，<br>未固定的标签页，<br>所有标签页。</li><li>在上下文菜单中选择“Annotate and save the page…”可实现以下功能：<br>高亮文本，<br>添加笔记，<br>删除内容。</li><li>上下文菜单还允许您激活自动保存功能：<br>  当前标签页，<br>  未固定的标签页，<br>  所有标签页。<br>  启用自动保存后，页面在加载后（或在卸载前，如果没有加载）会自动保存。</li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2023/12/07/%E5%BC%80%E6%BA%90%E7%9B%91%E6%8E%A7%E5%B9%B3%E5%8F%B0uptime-kuma/"/>
+    <url>/2023/12/07/%E5%BC%80%E6%BA%90%E7%9B%91%E6%8E%A7%E5%B9%B3%E5%8F%B0uptime-kuma/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>大侠之运维</strong>，相识便是缘<br>收集不易,点赞、留言、分享就是大侠🦸‍♀️写下去的动力!</p></blockquote><p>35.9kstar，开源、花哨的工具推荐</p><p>这是一款开源的监控工具，关注度也是一直飙升，目前已经有35.9k star</p><p><img src="https://files.mdnice.com/user/46581/6736ba52-13bd-4623-8da2-4c426dca836e.png"></p><h2 id="1-uptime-kuma-简介"><a href="#1-uptime-kuma-简介" class="headerlink" title="1 uptime kuma 简介"></a>1 uptime kuma 简介</h2><p>说下这个监控工具吧，迭代到今天，功能真的很强大，其中比较实用，也是最初的推出的功能就是拨测功能，还有证书监控。</p><p>这个工具配置监控，界面真的很花哨，配色也确实不错。<br><img src="https://files.mdnice.com/user/46581/6a6c9e8c-8d5c-43cb-a66c-9b20f18b8e9e.png"></p><p>记得最早大概7年前吧，当时我们的拨测都是用脚本去拨测，然后结果输入到influxdb，在用grafana展示。</p><p>后面的话用了一些第三方工具去做，现在的话，用的是blackbox-exporter监控，用prometheus去采集，然后用夜莺调微信机器人、钉钉告警，然后用grafana展示。</p><p>但是这款工具的话，让我们的拨测监控配置更加简单，界面更加直观，另外还有证书过期时间的监控，当公司域名使用过多的时候，证书过期忘了替换也是时有发生的。</p><p>这款工具支持的告警渠道多达90+，常用的基本都支持<br><img src="https://files.mdnice.com/user/46581/23b78680-2585-4358-89ff-9187cf231630.png"></p><p>除了常规的拨测监控外，监控类型也是真的多，除了支持简单的GET请求，也可以配置一些业务调用的监控，个人感觉还是很实用的。<br><img src="https://files.mdnice.com/user/46581/2c2647b0-adc1-41ca-b99e-f7528f81457f.png"></p><h2 id="2-部署"><a href="#2-部署" class="headerlink" title="2 部署"></a>2 部署</h2><p>很简单</p><p>直接docker启动就好</p><figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs routeros">docker <span class="hljs-built_in">run</span> -d <span class="hljs-attribute">--restart</span>=always -p 3001:3001 -v uptime-kuma:/app/data --name uptime-kuma louislam/uptime-kuma:1<br></code></pre></td></tr></table></figure><p><strong><a href="https://github.com/louislam/uptime-kuma">https://github.com/louislam/uptime-kuma</a></strong></p><p>github如果无法访问的话，可以后台直接私信</p><h2 id="3-其他使用截图"><a href="#3-其他使用截图" class="headerlink" title="3 其他使用截图"></a>3 其他使用截图</h2><p>监控页面</p><p><img src="https://files.mdnice.com/user/46581/9d8e1b2f-0e5e-4d11-9bb7-d26987b341b6.png"></p><p>配置页面<br><img src="https://files.mdnice.com/user/46581/9cf363ae-07cc-41bb-abb1-e1d3392973ca.png"><br>多语言<br><img src="https://files.mdnice.com/user/46581/230bee11-a339-414d-9317-7c97be9eceb5.png"></p><p>支持暗黑风格，历史数据存放时间可以调节</p><p><img src="https://files.mdnice.com/user/46581/5d5d5b50-bab5-4cf5-b631-c21c66300697.png"></p><h2 id="4-特性"><a href="#4-特性" class="headerlink" title="4 特性"></a>4 特性</h2><ul><li>监控HTTP(s) &#x2F; TCP &#x2F; HTTP(s)关键字 &#x2F; HTTP(s) Json查询 &#x2F; Ping &#x2F; DNS记录 &#x2F; 推送 &#x2F; Steam游戏服务器 &#x2F; Docker容器的运行时间</li><li>时尚、反应灵敏、快速的用户界面&#x2F;体验</li><li>支持通过Telegram、Discord、Gotify、Slack、Pushover、电子邮件（SMTP）以及90多种通知服务进行通知，点击此处查看完整列表</li><li>20秒间隔</li><li>多语言支持</li><li>多个状态页面</li><li>将状态页面映射到特定域名</li><li>Ping图表</li><li>证书信息</li><li>代理支持</li><li>双因素认证支持</li></ul><h2 id="5-demo"><a href="#5-demo" class="headerlink" title="5 demo"></a>5 demo</h2><p>开发者提供了试用地址，可以去体验下，试用数据只会保留10分钟，需要注意下。</p><blockquote><p> <a href="https://demo.uptime.kuma.pet/">https://demo.uptime.kuma.pet</a></p></blockquote>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2023/12/07/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E4%BF%9D%E6%8A%A4%E4%BD%A0%E7%9A%84%E9%A2%88%E6%A4%8E/"/>
+    <url>/2023/12/07/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E4%BF%9D%E6%8A%A4%E4%BD%A0%E7%9A%84%E9%A2%88%E6%A4%8E/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>大侠之运维</strong>，相识便是缘<br>收集不易,点赞、留言、分享就是大侠🦸‍♀️写下去的动力!</p></blockquote><p>打工人，每天盯着显示器，一作就是一上午，时不时脖子就会不舒服，今天发现一个很好玩的预防颈椎的项目，不需要你干啥，每天累了打开网页看下就可以预防。</p><p>不信你看：</p><p><img src="https://files.mdnice.com/user/46581/004e85b6-fef0-4c4f-93d7-1e94c1bb9077.png"></p><h2 id="1-简介"><a href="#1-简介" class="headerlink" title="1  简介"></a>1  简介</h2><ul><li>活动脖子，预防颈椎病</li><li>三种模式支持，强度自己选择</li><li>休息日指南，快速知晓下一个休息日</li><li>当季蔬果提示，健康饮食每一天</li><li>历史上的今天，回顾历史长河</li></ul><h2 id="2-工作模式"><a href="#2-工作模式" class="headerlink" title="2 工作模式"></a>2 工作模式</h2><ul><li>柔和模式：每次触发时内容小范围摆动，标题和主体不颠倒展示</li><li>连续模式：标题和主体不颠倒展示，每隔 4s 自动左右摆动</li><li>全面模式：每次触发时内容随机角度摆动，标题和主体颠倒展示，为插件默认模式</li></ul><h2 id="3-安装"><a href="#3-安装" class="headerlink" title="3 安装"></a>3 安装</h2><ul><li>可安装对应的插件，获取地址：</li></ul><blockquote><p><a href="https://github.com/DukeLuo/wai">https://github.com/DukeLuo/wai</a> </p></blockquote><ul><li>可在线访问，地址如下：</li></ul><blockquote><p><a href="https://wai.shaiwang.life/">https://wai.shaiwang.life/</a> </p></blockquote>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2023/12/07/%E5%BC%80%E6%BA%90%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%AE%A1%E7%90%86%E5%99%A81remote/"/>
+    <url>/2023/12/07/%E5%BC%80%E6%BA%90%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%AE%A1%E7%90%86%E5%99%A81remote/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>大侠之运维</strong>，相识便是缘<br>收集不易,点赞、留言、分享就是大侠🦸‍♀️写下去的动力!</p></blockquote><p>PRemoteM 是一款现代的远程会话管理和启动器，它让你能够在任何时候快速开启一个远程会话。目前 PRemoteM 已支持 微软远程桌面(RDP)、VNC、SSH、Telnet、SFTP, FTP, RemoteApp等协议。</p><p><img src="https://files.mdnice.com/user/46581/350444ab-8779-4c6f-998b-dd1af6e89f44.png"></p><h2 id="1-PRemoteM-简介"><a href="#1-PRemoteM-简介" class="headerlink" title="1 PRemoteM 简介"></a>1 PRemoteM 简介</h2><p>如果你远程连接windows桌面仍旧在使用win+R，输入mstsc，那么我建议你尝试下这个工具，当然了，类似的工具还有一些，如7.7kstar的mRmoteNG，后面文章会介绍。</p><p>这款工具的特点在于，它更加简洁方便，如果你之前有使用mRmoteNG,你还可以直接通过csv的方式导入。</p><p><img src="https://files.mdnice.com/user/46581/09b97a20-6341-498b-a519-843ca513c8da.png"></p><h2 id="2-安装"><a href="#2-安装" class="headerlink" title="2 安装"></a>2 安装</h2><p>github可以访问的直接到如下链接去下载就可以，目前支持windows</p><p><strong><a href="https://github.com/1Remote/1Remote/releases">https://github.com/1Remote/1Remote/releases</a></strong></p><p>github如果无法访问的话，可以后台直接私信</p><p><img src="https://files.mdnice.com/user/46581/40973594-488c-4304-8422-0af2b6d463b5.png"></p><h2 id="3-特点"><a href="#3-特点" class="headerlink" title="3 特点"></a>3 特点</h2><ul><li>支持 RDP, SSH, VNC, Telnet, (S)FTP, RemoteApp, NoMachine 和外部程序嵌入</li><li>快捷方便的远程会话启动器 (Alt + M)，支持拼音检索汉字</li><li>支持 RDP 多显示器远程管理的第三方工具。(测试基于 Win10 + 4k 显示器*2 远程至 Win2016)</li><li>支持细节配置：如 tags、图标、连接前后执行脚本等（如 SSH 打开编译服务器后自动执行 make，编译完成后退出 SSH）</li><li>多语言、主题、可分离的用户界面</li><li>可从 mRemoteNG 迁移会话</li><li>基于 RSA 的敏感数据保护</li><li>可自定义启动器，在 sFTP、VNC 等协议中，你可以用自己喜欢的程序来替换内置程序。wiki</li><li>绿色无需安装 - Exe 版本下载解包即可，不需要执行任何安装操作</li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2023/12/07/%E5%BC%80%E6%BA%90%E7%94%B5%E5%AD%90%E4%B9%A6%E9%98%85%E8%AF%BB%E5%99%A8%E6%8E%A8%E8%8D%90/"/>
+    <url>/2023/12/07/%E5%BC%80%E6%BA%90%E7%94%B5%E5%AD%90%E4%B9%A6%E9%98%85%E8%AF%BB%E5%99%A8%E6%8E%A8%E8%8D%90/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>大侠之运维</strong>，相识便是缘<br>收集不易,点赞、留言、分享就是大侠🦸‍♀️写下去的动力!</p></blockquote><p>这篇文章给大家推荐一款跨平台的电子书阅读器，这款阅读器功能还是很强大的， 支持多平台使用，整个界面的ui也是不错的，还内置了一些常用功能。</p><p><img src="https://files.mdnice.com/user/46581/e3c9a312-34f4-4b1c-b491-677fee8a2629.png"></p><h2 id="1-Koodo-Reader-简介"><a href="#1-Koodo-Reader-简介" class="headerlink" title="1 Koodo Reader 简介"></a>1 Koodo Reader 简介</h2><ul><li>支持阅读格式：</li><li><ul><li>EPUB (.epub)</li></ul></li><li><ul><li>扫描文档 (.pdf, .djvu)</li></ul></li><li><ul><li>Kindle (.azw3, .mobi, .azw)</li></ul></li><li><ul><li>纯文本 (.txt)</li></ul></li><li><ul><li>漫画 (.cbr, .cbz, .cbt, .cb7)</li></ul></li><li><ul><li>富文本 (.md, .docx, .rtf)</li></ul></li><li><ul><li>FB2 (.fb2)</li></ul></li><li><ul><li>超文本 (.html, .xml, .xhtml, .mhtml, .htm, .htm)</li></ul></li><li><ul><li>支持 Windows，macOS，Linux 和 网页版</li></ul></li><li>备份数据到 Dropbox 和 Webdav</li><li>自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</li><li>双页模式，单页模式，滚动模式</li><li>听书功能，翻译功能，触控屏支持，批量导入图书</li><li>支持目录，书签，笔记，高亮，书架，标签</li><li>自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细</li><li>黑夜模式和主题色设置</li></ul><p><img src="https://files.mdnice.com/user/46581/e30875fe-dc0b-42f4-b55d-c15c2edac16d.png"></p><h2 id="2-使用方法"><a href="#2-使用方法" class="headerlink" title="2 使用方法"></a>2 使用方法</h2><p>桌面端：<br>稳定版 (推荐下载)：官网</p><p>开发版：Github Release </p><p>网页版：<a href="https://reader.960960.xyz/#/manager/empty">https://reader.960960.xyz/#/manager/empty</a></p><p>使用 Scoop 安装：</p><figure class="highlight armasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs armasm"><span class="hljs-symbol">scoop</span> bucket <span class="hljs-keyword">add</span> dorado https:<span class="hljs-comment">//github.com/chawyehsu/dorado</span><br><span class="hljs-symbol">scoop</span> install dorado/koodo-reader<br></code></pre></td></tr></table></figure><p>使用 Winget 安装：</p><figure class="highlight cmake"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs cmake">winget <span class="hljs-keyword">install</span> -e AppbyTroye.KoodoReader<br></code></pre></td></tr></table></figure><h2 id="3、界面示例"><a href="#3、界面示例" class="headerlink" title="3、界面示例"></a>3、界面示例</h2><p><img src="https://files.mdnice.com/user/46581/79e6be95-cda8-486d-b094-e9fc7bd541a0.png"></p><p>列表模式  </p><p><img src="https://files.mdnice.com/user/46581/84291305-85bb-4b39-a7ef-e7d460d9ffd6.png"></p><p>封面模式  </p><p><img src="https://files.mdnice.com/user/46581/4eac22b0-f82a-4dc6-bc3c-697d3794a46a.png"></p><p>阅读菜单  </p><p><img src="https://files.mdnice.com/user/46581/86d3fa65-7ce7-44f7-82ff-e83dfd199e8d.png"></p><p>备份和恢复  </p><p><img src="https://files.mdnice.com/user/46581/f4b87d23-a39f-4664-aee5-34f64896a530.png"></p><p>黑夜模式和主题色  </p><p><img src="https://files.mdnice.com/user/46581/fab50f4d-9862-4551-9ea8-07881efb79c0.png"></p><p>笔记管理 </p><p><img src="https://files.mdnice.com/user/46581/0949e92a-34af-404b-8d27-38cd56380ed5.png"></p><h2 id="4、其它功能介绍"><a href="#4、其它功能介绍" class="headerlink" title="4、其它功能介绍"></a>4、其它功能介绍</h2><ul><li><p><strong>摸鱼功能</strong></p></li><li><p>摸鱼模式可以隐藏图书窗口的边框并使背景透明，和其他软件放在一起无法分辨。开启之后，图书窗口将不能移动，按F12可以切换摸鱼模式和普通模式。注意：开启在主窗口打开图书后，将不能开启摸鱼模式。</p></li><li><p>首先打开一个空白 Word 文档。根据自己的需要，在右侧菜单中把阅读背景、翻页按钮、菜单按钮隐藏，开启单页模式或滚动模式，将图书窗口摆放到屏幕中间，调整好长宽后，按F12 键开启摸鱼模式。这样图书窗口就可以完全隐藏在 Word 中。</p></li><li><p><strong>Windows 系统不同安装包的区别</strong></p><ul><li>安装版：安装过程中可以选择软件的安装位置和权限，并创建快捷方式</li><li>便携版：无需安装双击直接运行，但启动时间较长</li><li>绿色版：由用户自己解压到指定位置，双击解压后的exe文件运行软件，运行速度和安装版一样快</li></ul></li><li><p><strong>如何实现不同电脑之间的数据同步?</strong></p><ul><li>同步是借助第三方网盘实现的。不同电脑上的 Koodo Reader 共用网盘中的同一文件夹作为数据存储位置，当你在其中一台电脑上点击同步按钮，Koodo Reader 中的数据会被复制到这个文件夹。其他电脑上的 Koodo Reader 就可以从这个文件夹中获取数据并覆盖到 Koodo Reader 中，从而实现数据同步。</li><li><strong>手把手教程：</strong></li></ul><ol><li>保证两台电脑上的同步文件夹都存在，且文件夹下没有任何文件</li><li>在其中一台电脑导入图书，前往设置把数据存储位置修改为同步文件夹，点击同步按钮</li><li>在另一台电脑上，等待同步数据下载完成，打开 Koodo Reader，前往设置把数据存储位置修改为同步文件夹，退出并重新打开 Koodo Reader。</li><li>此时数据已同步到另一台电脑上，今后在任意一台电脑上做出修改，点击同步按钮后，再在另一台电脑上打开 Koodo Reader，点击同步按钮，即可实现同步</li></ol></li><li><p><strong>我的数据存在哪里?</strong></p><ul><li>您所有的数据都保存在了您的本机，我们不会上传您的任何数据，您也只能在导入图书的电脑上访问这些数据。</li><li>客户端：您所有的数据包括图书和各种配置数据都存储在一个单独文件夹，不同操作系统这个路径都不同，您可以在设置→修改存储位置中找到 koodo-reader 这个文件夹。删除这个文件夹会完全删除所有数据</li><li>网页版：你所有的数据都作为缓存临时保存在浏览器中，除你之外的任何人都无法接触到这些数据，你也只能在导入图书的浏览器中访问这些数据。清除浏览器缓存会导致数据丢失。</li></ul></li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>github开源ocr神器</title>
     <link href="/2023/12/07/github%E5%BC%80%E6%BA%90ocr%E7%A5%9E%E5%99%A8/"/>
     <url>/2023/12/07/github%E5%BC%80%E6%BA%90ocr%E7%A5%9E%E5%99%A8/</url>
