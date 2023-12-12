@@ -4,6 +4,32 @@
   
   
   <entry>
+    <title>3.5K star，开源效率工具推荐--番茄时钟</title>
+    <link href="/2023/12/12/3-5K-star%EF%BC%8C%E5%BC%80%E6%BA%90%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90-%E7%95%AA%E8%8C%84%E6%97%B6%E9%92%9F/"/>
+    <url>/2023/12/12/3-5K-star%EF%BC%8C%E5%BC%80%E6%BA%90%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90-%E7%95%AA%E8%8C%84%E6%97%B6%E9%92%9F/</url>
+    
+    <content type="html"><![CDATA[<p>3.5K star，开源效率工具推荐</p><p>推荐一款界面简洁，配置简单，颜值不错的番茄时钟，多平台支持</p><p>所谓番茄工作法（英语：Pomodoro Technique）是一种时间管理方法，在1980年代由Francesco Cirillo创立。</p><p>该方法使用一个定时器来分割出一个一般为25分钟的工作时间和5分钟的休息时间，而那些时间段被称为pomodoros，为意大利语单词 pomodoro（中文：番茄）。</p><h2 id="1-pomotroid-简介"><a href="#1-pomotroid-简介" class="headerlink" title="1 pomotroid 简介"></a>1 pomotroid 简介</h2><ul><li>一个简单、可配置且视觉上令人愉悦的番茄钟计时器。</li></ul><p>参考地址：</p><blockquote><p><a href="https://splode.github.io/pomotroid/">https://splode.github.io/pomotroid/</a></p></blockquote><p><img src="https://files.mdnice.com/user/46581/07441988-4163-43d3-a944-c7d3e3717272.png"></p><p>Pomotroid是一个简单且可配置的番茄钟计时器。它旨在提供一个视觉美观且可靠的方式，使用番茄工作法来跟踪工作效率。</p><p>这是一款 Vue 写的拥有超高颜值的番茄计时器，支持自定义时间、回合数、提示音、桌面通知等功能。</p><h2 id="2-安装"><a href="#2-安装" class="headerlink" title="2 安装"></a>2 安装</h2><p><img src="https://files.mdnice.com/user/46581/32f9bcc6-d02b-4df0-b6bc-0b4661746d3e.png"></p><p>github可以访问的直接到如下链接去下载就可以，目前支持windows、mac、linux版本</p><p><strong><a href="https://github.com/Splode/pomotroid/releases/tag/v0.13.0">https://github.com/Splode/pomotroid/releases/tag/v0.13.0</a></strong></p><p>github如果无法访问的话，可以后台直接私信</p><h2 id="3-特点"><a href="#3-特点" class="headerlink" title="3 特点"></a>3 特点</h2><ul><li>自定义时间和轮数（持久性）</li><li>迷人的计时器提醒声音（可选）</li><li>桌面通知（可选）</li><li>最小化到托盘（可选）</li><li>多个主题可供选择，并支持创建自定义主题。</li><li>计时器活动记录</li></ul><h2 id="4-更多截图"><a href="#4-更多截图" class="headerlink" title="4 更多截图"></a>4 更多截图</h2><p>支持不同主题选择</p><p><img src="https://files.mdnice.com/user/46581/a11e5032-3b2f-4d74-9d2c-0c91350943e5.png"></p><p>配置界面</p><p><img src="https://files.mdnice.com/user/46581/84932cc7-a830-4ff1-bb70-6e9c4f7b5f3f.png"></p><h2 id="5-补充"><a href="#5-补充" class="headerlink" title="5 补充"></a>5 补充</h2><p>工具不是最重要的，核心在于你的执行力和实践</p><p>番茄工作法有五个步骤：</p><ul><li>决定需要先完成的任务。</li><li>设定番茄工作法定时器至 n 分钟（通常为25分钟）。</li><li>持续工作直至定时器提示，记下一个番茄。</li><li>短暂休息3-5分钟。</li><li>每四个番茄，休息15-30分。</li></ul><p>番茄工作法原理：</p><p>番茄工作法的关键是规划，追踪，记录，处理，以及可视化。在规划阶段，任务被根据优先级排入”To Do Today” list。 这允许用户预计每个任务的工作量。当每个番茄时结束后，成果会被记录下来以提高参与者的成就感并为未来的自我观察和改进提供原始数据。</p><p>番茄时意指每个工作时段的时长。当任务完成后，所有番茄计时器剩下的时间会被用于过度学习。短休息时间可以辅助达到心理学上的同化作用，3-5分钟的短休息间隔开每个番茄工作时段。四个番茄工作时组成一组。一个15-50分钟的长休息间隔开每组作业。</p><p>这一时间管理技术的本质目的是减少内生和外在的干扰对意识流的影响。一个单位的番茄工作时不可再细分。当在番茄工作时中被打断的情况下，只可能有两种情况：干扰的活动被推迟（告知 - 协商 - 安排日程 - 回访），或者当前的番茄工作时废弃，必须重新开始。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>推荐一款好用的windows工具，推荐--录屏工具！</title>
+    <link href="/2023/12/12/%E6%8E%A8%E8%8D%90%E4%B8%80%E6%AC%BE%E5%A5%BD%E7%94%A8%E7%9A%84windows%E5%B7%A5%E5%85%B7%EF%BC%8C%E6%8E%A8%E8%8D%90%EF%BC%81/"/>
+    <url>/2023/12/12/%E6%8E%A8%E8%8D%90%E4%B8%80%E6%AC%BE%E5%A5%BD%E7%94%A8%E7%9A%84windows%E5%B7%A5%E5%85%B7%EF%BC%8C%E6%8E%A8%E8%8D%90%EF%BC%81/</url>
+    
+    <content type="html"><![CDATA[<p>推荐一款好用的windows工具，推荐！</p><p>可以看下使用截图，软件地址在文末：</p><p><img src="https://files.mdnice.com/user/46581/52b0814a-7dc3-40f2-8106-72390ac9ec83.png"></p><p><img src="https://files.mdnice.com/user/46581/0b5ed237-9425-4252-bc52-601da8e33ef1.png"></p><p>vokoscreenNG是一款强大的屏幕录制工具，支持多种语言，可以录制整个屏幕、区域或窗口（仅限Linux）。</p><p>它还支持录制音频，以及使用内置摄像头让视频更加个性化。此外，它还提供了一些辅助工具，如多屏幕、系统托盘、放大镜、倒计时、计时器、显示点击、光晕、快照、内置视频播放器和全局快捷键等。</p><p>vokoscreenNG的使用方法很简单，只需下载并安装对应的Windows或Linux版本，然后运行程序，选择录制模式、音频源和摄像头，调整相关设置，就可以开始录制了。</p><p>录制完成后，可以在内置视频播放器中预览和编辑视频，也可以导出为常见的视频格式，如MP4、MKV、WEBM等。</p><p>vokoscreenNG的功能特点有以下几点：</p><ul><li>跨平台：支持Windows和Linux操作系统，可以在不同的环境下使用。</li><li>开源免费：基于Qt和GStreamer框架开发，遵循GPLv2协议，可以自由使用和修改源代码。</li><li>多语言：支持多种语言，包括英语、中文、日语、法语、德语等，可以根据用户的偏好选择。</li><li>稳定高效：利用GStreamer的多媒体能力，实现高质量的视频录制和编码，同时保证系统的稳定性和效率。</li></ul><p>vokoscreenNG 软件的安装和使用方法：</p><ul><li>vokoscreenNG 支持 Windows 和 Linux 系统，是免费和开源的软件。您可以从<a href="%5E1%5E">官网</a>或<a href="%5E2%5E">GitHub</a>下载最新版本的安装文件。</li><li>vokoscreenNG 的安装方法根据不同的平台和包管理器有所不同。您可以参考以下链接中的指南来安装 vokoscreenNG：<ul><li><a href="%5E3%5E">Windows</a>：双击下载的 .exe 文件，按照提示进行安装。</li><li><a href="%5E4%5E">Ubuntu</a>：在终端中运行以下命令：<code>sudo add-apt-repository ppa:ubuntuhandbook1/apps</code>，然后 <code>sudo apt update &amp;&amp; sudo apt install vokoscreen-ng</code>。</li><li><a href="%5E5%5E">其他 Linux 发行版</a>：请查看您的发行版的软件仓库中是否包含 vokoscreenNG，如果有，直接通过软件管理器或类似的工具进行安装。如果没有，您可能需要从源代码编译安装 vokoscreenNG，具体步骤请参考<a href="%5E2%5E">GitHub</a>上的说明。</li></ul></li><li>vokoscreenNG 的使用方法很简单，您只需要启动软件，选择您想要录制的屏幕、区域或窗口，以及音频源和摄像头，然后点击开始按钮即可。您可以在录制过程中使用快捷键或系统托盘图标来暂停、恢复或停止录制。录制完成后，您可以使用内置的视频播放器来查看和播放您的视频文件。</li></ul><p>这款工具还支持linux，在Linux下使用需要注意：</p><ul><li><strong>修改配置文件</strong>：为了避免录制过程中出现闪烁、撕裂、或者其他画面问题，您需要修改 <code>/etc/pulse/default.pa</code> 文件，将 <code>load-module module-suspend-on-idle</code> 这一行注释掉，然后重新启动系统。</li><li><strong>关闭或调整合成器</strong>：合成器是用于提供桌面动画效果的软件，但是它可能会影响录制的质量。您可以选择关闭合成器，或者调整合成器的设置，比如关闭垂直同步（VSync）。</li><li><strong>适配 NVidia 显卡</strong>：如果您使用的是 NVidia 显卡，您可能需要在 NVidia 设置中启用 <strong>Force Composition Pipeline</strong> 选项，以消除撕裂现象。</li></ul><p>总之，vokoscreenNG是一款适合各种场景的屏幕录制工具，无论是教学、演示、游戏、直播还是其他用途，都可以用它来制作精彩的视频内容。如果你对这款工具感兴趣，可以访问它的官方网站，下载最新的版本，或者参与到它的翻译和开发中去。<br><img src="https://files.mdnice.com/user/46581/5317ca1d-942c-4d99-ad79-8180bf9a1751.png"></p><p>工具安装地址：<a href="https://linuxecke.volkoh.de/vokoscreen/vokoscreen-tips.html">https://linuxecke.volkoh.de/vokoscreen/vokoscreen-tips.html</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>推荐一款神仙软件，可免费使用,跨平台局域网文件传输</title>
     <link href="/2023/12/11/%E6%8E%A8%E8%8D%90%E4%B8%80%E6%AC%BE%E7%A5%9E%E4%BB%99%E8%BD%AF%E4%BB%B6%EF%BC%8C%E5%8F%AF%E5%85%8D%E8%B4%B9%E4%BD%BF%E7%94%A8-%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%B1%80%E5%9F%9F%E7%BD%91%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93/"/>
     <url>/2023/12/11/%E6%8E%A8%E8%8D%90%E4%B8%80%E6%AC%BE%E7%A5%9E%E4%BB%99%E8%BD%AF%E4%BB%B6%EF%BC%8C%E5%8F%AF%E5%85%8D%E8%B4%B9%E4%BD%BF%E7%94%A8-%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%B1%80%E5%9F%9F%E7%BD%91%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93/</url>
