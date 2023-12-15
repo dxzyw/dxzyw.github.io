@@ -4,6 +4,32 @@
   
   
   <entry>
+    <title>没啥太大的用处，纯纯的酷炫，star很高，38k，目前已经闭源</title>
+    <link href="/2023/12/15/%E6%B2%A1%E5%95%A5%E5%A4%AA%E5%A4%A7%E7%9A%84%E7%94%A8%E5%A4%84%EF%BC%8C%E7%BA%AF%E7%BA%AF%E7%9A%84%E9%85%B7%E7%82%AB%EF%BC%8Cstar%E5%BE%88%E9%AB%98%EF%BC%8C38k%EF%BC%8C%E7%9B%AE%E5%89%8D%E5%B7%B2%E7%BB%8F%E9%97%AD%E6%BA%90/"/>
+    <url>/2023/12/15/%E6%B2%A1%E5%95%A5%E5%A4%AA%E5%A4%A7%E7%9A%84%E7%94%A8%E5%A4%84%EF%BC%8C%E7%BA%AF%E7%BA%AF%E7%9A%84%E9%85%B7%E7%82%AB%EF%BC%8Cstar%E5%BE%88%E9%AB%98%EF%BC%8C38k%EF%BC%8C%E7%9B%AE%E5%89%8D%E5%B7%B2%E7%BB%8F%E9%97%AD%E6%BA%90/</url>
+    
+    <content type="html"><![CDATA[<p>没啥太大的用处，纯纯的酷炫，star很高，38k，目前已经闭源</p><p><img src="/../iamge/fee81738-fb87-4d91-9c48-7663b2726655.png"></p><h2 id="1-edex-ui-简介"><a href="#1-edex-ui-简介" class="headerlink" title="1 edex-ui 简介"></a>1 edex-ui 简介</h2><p>一个跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持。eDEX-UI 是一个全屏、跨平台的终端仿真器和系统监视器，外观和感觉都像一个科幻计算机界面。</p><p><img src="/../image/ca15e678-f96e-472d-a2f4-d5c796a52acd.png"></p><ul><li>功能齐全的终端仿真器，具有选项卡、颜色、鼠标事件以及对类似应用程序的支持 curses curses 。</li><li>完全支持支持触摸的显示器，包括屏幕键盘。</li><li>遵循终端 CWD（当前工作目录）的目录查看器。</li><li>使用主题、屏幕键盘布局、CSS 注入进行高级自定义。有关详细信息，请参阅wiki</li><li>由才华横溢的声音设计师制作的可选音效，以最大程度地营造好莱坞黑客氛围。</li></ul><h2 id="2-一些很叼的截图"><a href="#2-一些很叼的截图" class="headerlink" title="2 一些很叼的截图"></a>2 一些很叼的截图</h2><p><img src="/../image/68fff366-3d46-4d3f-b7a7-5b58afd7698b.png"></p><p><img src="/../image/9777477d-9e28-48e5-8fc6-3c87da6795ac.png"></p><p><img src="/../image/08d7f130-353e-483f-86ab-661ea7e6b8d3.png"></p><p><img src="/../image/204e104e-9089-43e6-abc4-afe0a3256db5.png"></p><h2 id="3-安装"><a href="#3-安装" class="headerlink" title="3 安装"></a>3 安装</h2><p>github可以访问的直接到如下链接去下载就可以，目前支持windows、linux、mac版本</p><p><strong><a href="https://github.com/GitSquared/edex-ui/releases/tag/v2.2.8">https://github.com/GitSquared/edex-ui/releases/tag/v2.2.8</a></strong></p><p>github如果无法访问的话，可以后台直接私信</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>14.9k star，推荐一款酷炫、狂拽的终端工作区</title>
+    <link href="/2023/12/15/14-9k-star%EF%BC%8C%E6%8E%A8%E8%8D%90%E4%B8%80%E6%AC%BE%E9%85%B7%E7%82%AB%E3%80%81%E7%8B%82%E6%8B%BD%E7%9A%84%E7%BB%88%E7%AB%AF%E5%B7%A5%E4%BD%9C%E5%8C%BA/"/>
+    <url>/2023/12/15/14-9k-star%EF%BC%8C%E6%8E%A8%E8%8D%90%E4%B8%80%E6%AC%BE%E9%85%B7%E7%82%AB%E3%80%81%E7%8B%82%E6%8B%BD%E7%9A%84%E7%BB%88%E7%AB%AF%E5%B7%A5%E4%BD%9C%E5%8C%BA/</url>
+    
+    <content type="html"><![CDATA[<p>14.9k star，推荐一款酷炫、狂拽的终端工作区</p><p>可以看下效果，工具获取在文末：<br><img src="/../image/12487e76-a8f2-474a-8a74-70df7b32fd81.gif"></p><p>Zellij是一个终端工作区，它具有终端多路复用器（类似于tmux或screen）的基本功能，但还包含许多内置功能，可以让用户扩展它并创建自己的个性化环境。以下是一些关于这款工具的介绍：</p><ul><li><strong>简介</strong>：Zellij的设计理念是不牺牲简单性而获得强大的功能，它以其出色的开箱即用体验和为用户提供的高级功能而自豪。Zellij面向初学者和高级用户，支持深度定制、通过布局实现个人自动化、真正的多人协作、独特的用户体验功能，如浮动和堆叠窗格，以及一个允许用户用任何编译为WebAssembly的语言创建插件的插件系统。</li></ul><p><img src="/../image/844a7ea3-f728-41a9-b94e-fe6934ae316f.png"></p><ul><li><strong>安装使用</strong>：安装Zellij的最简单方法是通过您的操作系统的软件包。如果您的操作系统没有可用的软件包，您可以从<a href="%5E1%5E">最新版本</a>下载预编译的二进制文件，并将其放在您的$PATH中。您也可以尝试在不安装的情况下运行Zellij，只需在终端中输入以下命令：</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">bash &lt; (curl -L zellij.dev/launch)<br></code></pre></td></tr></table></figure><p>使用Zellij的基本操作是通过快捷键来控制。您可以按<code>Ctrl+g</code>进入会话模式，然后按<code>?</code>查看所有可用的快捷键。您可以在<a href="%5E5%5E">配置文档</a>中了解如何自定义快捷键和其他设置。</p><ul><li><strong>特点</strong>：Zellij的主要特点之一是布局引擎，它允许用户在配置文件中定义窗格的地图，并在启动应用程序时加载它。这样，用户可以在不做所有设置工作的情况下，让自己的窗格按照自己想要的方式排列。您可以在<a href="%5E2%5E">布局文档</a>中了解更多信息。</li></ul><p><img src="/../image/0b715b39-9f37-4a7f-9a6c-d245e2003812.png"></p><p>Zellij还有一些特殊的窗格，它们不是终端。这些窗格被称为插件。Zellij自带一些预构建的插件，如Strider文件浏览器。Zellij使用Webassembly和WASI来加载这些窗格并给予它们访问主机机器的权限，所以它们可以用任何编译语言编写。要了解更多，请参阅<a href="%5E3%5E">插件文档</a>。</p><p><strong>总结</strong>：Zellij是一个功能强大且可定制的终端工作区，它可以让用户在终端中实现多种任务和效果。它有着友好的用户界面和丰富的文档，适合不同水平的用户使用。它还支持插件系统，让用户可以用自己喜欢的语言扩展它的功能。Zellij是一个值得尝试的终端工具，它可以让您的终端体验更加高效和有趣。😊</p><p>开源地址：<a href="https://github.com/zellij-org/zellij#try-zellij-without-installing">https://github.com/zellij-org/zellij#try-zellij-without-installing</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>2.7k star开源工具，推荐给研发或运维伙伴，zk管理平台</title>
     <link href="/2023/12/14/2-7k-star%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%EF%BC%8C%E6%8E%A8%E8%8D%90%E7%BB%99%E7%A0%94%E5%8F%91%E6%88%96%E8%BF%90%E7%BB%B4%E4%BC%99%E4%BC%B4%EF%BC%8Czk%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0/"/>
     <url>/2023/12/14/2-7k-star%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%EF%BC%8C%E6%8E%A8%E8%8D%90%E7%BB%99%E7%A0%94%E5%8F%91%E6%88%96%E8%BF%90%E7%BB%B4%E4%BC%99%E4%BC%B4%EF%BC%8Czk%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0/</url>
