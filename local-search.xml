@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>16.7k star，丝滑、简洁、安全的开源工具推荐--magic-wormhole</title>
+    <link href="/2023/12/21/16-7k-star%EF%BC%8C%E4%B8%9D%E6%BB%91%E3%80%81%E7%AE%80%E6%B4%81%E3%80%81%E5%AE%89%E5%85%A8%E7%9A%84%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90-magic-wormhole/"/>
+    <url>/2023/12/21/16-7k-star%EF%BC%8C%E4%B8%9D%E6%BB%91%E3%80%81%E7%AE%80%E6%B4%81%E3%80%81%E5%AE%89%E5%85%A8%E7%9A%84%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90-magic-wormhole/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/../image/0279e9fe-fd26-43ca-84a0-77d856e70071.png"></p><p>16.7k star，丝滑、简洁、安全的开源工具推荐–magic-wormhole</p><h2 id="1-简介"><a href="#1-简介" class="headerlink" title="1  简介"></a>1  简介</h2><p>python写的基于PAKE协议的公网文件传输工具，可以安全的将文件从一台计算机传输到另外一台计算机<br>特点在于安全、简洁</p><p><img src="/../image/8f926421-0a9d-443c-bc11-81f11ecc50d7.png"></p><h2 id="2-使用示范"><a href="#2-使用示范" class="headerlink" title="2 使用示范"></a>2 使用示范</h2><p>安装完成对应的组件后，在发送端执行</p><figure class="highlight autoit"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs autoit">wormhole <span class="hljs-built_in">send</span> 文件名<br></code></pre></td></tr></table></figure><p>会生成对应另外一台电脑的操作命令如下：</p><p><img src="/../image/fce44e35-73d5-4281-a0a7-17cec2a0db2c.png"></p><p>另外一台接收端执行对应命令,输入y后，正常传输</p><p><img src="/../image/9c947e96-1b2c-470d-9f12-703630299863.png"></p><h2 id="3-安装"><a href="#3-安装" class="headerlink" title="3 安装"></a>3 安装</h2><p>github可以访问的直接到如下链接去看源码，支持多环境<br>如果有python环境，直接pip安装magic-wormhole就好</p><figure class="highlight cmake"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs cmake">pip <span class="hljs-keyword">install</span> magic-wormhole<br></code></pre></td></tr></table></figure><p><strong><a href="https://github.com/magic-wormhole/magic-wormhole">https://github.com/magic-wormhole/magic-wormhole</a></strong></p><p>github如果无法访问的话，可以后台直接私信</p><p>支持大部分操作系统，如下</p><p><img src="/../image/2cdeed60-5fdd-4308-b62e-cf6e38b6b06f.png"></p><h2 id="4-其他介绍"><a href="#4-其他介绍" class="headerlink" title="4 其他介绍"></a>4 其他介绍</h2><p>该工具 wormhole 使用PAKE“密码身份验证密钥交换”，这是一系列加密算法，使用短的低熵密码来建立强大的高熵共享密钥。然后，此密钥可用于加密数据。 wormhole 使用SPAKE2算法。</p><p>PAKE 有效地权衡了交互与离线攻击。网络攻击者了解共享密钥的唯一方法是在初始连接尝试期间执行中间人攻击，并正确猜测双方正在使用的代码。他们这样做的机会与虫洞代码的熵成反比。默认设置是使用 16 位代码（使用 –code-length&#x3D; 更改此设置），因此每次使用该工具，攻击者都有 1&#x2F;65536 的成功机会。因此，在攻击者有合理的成功机会之前，用户可以期望看到许多错误消息。</p><p>该程序没有任何内置超时，但是预计两个客户端将在一小时左右的时间内运行。这使得该工具对于已经进行实时对话并希望逐步建立安全连接的人最有用。在传输完成之前，两个客户端都必须保持运行状态。</p><blockquote><p>注：如需转载，须保留文首公众号名片，其它行为一律视为非授权转载。</p></blockquote>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>推荐一个开源的docker学习网站，适合初级、中级、高级</title>
     <link href="/2023/12/20/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%BC%80%E6%BA%90%E7%9A%84docker%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99%EF%BC%8C%E9%80%82%E5%90%88%E5%88%9D%E7%BA%A7%E3%80%81%E4%B8%AD%E7%BA%A7%E3%80%81%E9%AB%98%E7%BA%A7/"/>
     <url>/2023/12/20/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%BC%80%E6%BA%90%E7%9A%84docker%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99%EF%BC%8C%E9%80%82%E5%90%88%E5%88%9D%E7%BA%A7%E3%80%81%E4%B8%AD%E7%BA%A7%E3%80%81%E9%AB%98%E7%BA%A7/</url>
